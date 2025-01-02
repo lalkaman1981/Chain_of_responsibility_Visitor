@@ -3,6 +3,7 @@ package ua.edu.ucu.apps.task1;
 
 import lombok.Setter;
 
+//@AllArgsConstructor
 public abstract class Banknote {
   public Banknote nextItem;
   public int banknoteNominale;
